@@ -15,6 +15,7 @@ const Home = () => {
                     <Link className="btn btn-primary btn-large" to="/dashboard">
                         Acessar Dashboard!
                     </Link>
+                    <a className="btn btn-large btn-primary ml-3" href="https://github.com/victorh5/projeto-sds3">Repositório</a>
                 </div>
             </div>
             <Footer />
