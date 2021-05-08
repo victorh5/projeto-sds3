@@ -1,6 +1,6 @@
 # Dashboard VENDAS
 
-[![NPM](https://img.shields.io/github/license/victorh5/bloodDonation)](https://github.com/victorh5/bloodDonation/blob/master/LICENSE)
+[![NPM](https://img.shields.io/github/license/victorh5/bloodDonation)](https://github.com/victorh5/projeto-sds3/blob/master/LICENSE)
 
 # Sobre o projeto
 
