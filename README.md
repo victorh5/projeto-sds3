@@ -15,8 +15,8 @@ Aplicação Full-Stack criada junto a semana do Spring React realizado pela [Dev
 - [ReactJS](https://pt-br.reactjs.org/)
 - [SpringBoot](https://spring.io/projects/spring-boot)
 - [Java](https://docs.oracle.com/en/java/)
-- [JavaScript] (https://www.javascript.com/)
-- [TypeScript] (https://www.typescriptlang.org/)
+- [JavaScript](https://www.javascript.com/)
+- [TypeScript](https://www.typescriptlang.org/)
 - [PostgreSQL](https://www.postgresql.org/)
 
 ## Preview
