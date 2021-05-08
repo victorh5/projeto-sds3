@@ -2,6 +2,8 @@
 
 [![NPM](https://img.shields.io/github/license/victorh5/bloodDonation)](https://github.com/victorh5/projeto-sds3/blob/master/LICENSE)
 
+https://victorh5-sds3.netlify.app/
+
 # Sobre o projeto
 
 O projeto consiste em apresentar resultados de vendas realizadas por cada vendedor, demonstrando por gráficos qual vendedor é o mais eficiente.
