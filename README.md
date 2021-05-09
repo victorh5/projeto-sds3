@@ -8,7 +8,7 @@ https://victorh5-sds3.netlify.app/
 
 O projeto consiste em apresentar resultados de vendas realizadas por cada vendedor, demonstrando por gráficos qual vendedor é o mais eficiente.
 
-Aplicação Full-Stack criada junto a semana do Spring React realizado pela [DevSuperior] (https://devsuperior.com.br)
+Aplicação Full-Stack criada junto a semana do Spring React realizado pela [DevSuperior](https://devsuperior.com.br)
 
 ## :rocket: Tecnologias Utilizadas
 
